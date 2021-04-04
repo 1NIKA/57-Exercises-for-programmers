@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\bin\Debug\Exercise29_HandlingBadInput.exe.config
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\bin\Debug\Exercise29_HandlingBadInput.exe
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\bin\Debug\Exercise29_HandlingBadInput.pdb
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\obj\Debug\Exercise29_HandlingBadInput.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\obj\Debug\Exercise29_HandlingBadInput.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\obj\Debug\Exercise29_HandlingBadInput.exe
+D:\C#\57 Exercises for programmers\Exercise29_HandlingBadInput\Exercise29_HandlingBadInput\obj\Debug\Exercise29_HandlingBadInput.pdb

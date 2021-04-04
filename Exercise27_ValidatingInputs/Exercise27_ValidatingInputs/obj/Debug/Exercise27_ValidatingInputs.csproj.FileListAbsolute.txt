@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\bin\Debug\Exercise27_ValidatingInputs.exe.config
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\bin\Debug\Exercise27_ValidatingInputs.exe
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\bin\Debug\Exercise27_ValidatingInputs.pdb
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\obj\Debug\Exercise27_ValidatingInputs.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\obj\Debug\Exercise27_ValidatingInputs.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\obj\Debug\Exercise27_ValidatingInputs.exe
+D:\C#\57 Exercises for programmers\Exercise27_ValidatingInputs\Exercise27_ValidatingInputs\obj\Debug\Exercise27_ValidatingInputs.pdb

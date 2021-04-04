@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\bin\Debug\Exercise41_NameSorter.exe.config
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\bin\Debug\Exercise41_NameSorter.exe
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\bin\Debug\Exercise41_NameSorter.pdb
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\obj\Debug\Exercise41_NameSorter.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\obj\Debug\Exercise41_NameSorter.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\obj\Debug\Exercise41_NameSorter.exe
+D:\C#\57 Exercises for programmers\Exercise41_NameSorter\Exercise41_NameSorter\obj\Debug\Exercise41_NameSorter.pdb

@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\bin\Debug\Exercise24_AnagramChecker.exe.config
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\bin\Debug\Exercise24_AnagramChecker.exe
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\bin\Debug\Exercise24_AnagramChecker.pdb
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\obj\Debug\Exercise24_AnagramChecker.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\obj\Debug\Exercise24_AnagramChecker.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\obj\Debug\Exercise24_AnagramChecker.exe
+D:\C#\57 Exercises for programmers\Exercise24_AnagramChecker\Exercise24_AnagramChecker\obj\Debug\Exercise24_AnagramChecker.pdb

@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\bin\Debug\Exercise38_FilteringValues.exe.config
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\bin\Debug\Exercise38_FilteringValues.exe
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\bin\Debug\Exercise38_FilteringValues.pdb
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\obj\Debug\Exercise38_FilteringValues.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\obj\Debug\Exercise38_FilteringValues.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\obj\Debug\Exercise38_FilteringValues.exe
+D:\C#\57 Exercises for programmers\Exercise38_FilteringValues\Exercise38_FilteringValues\obj\Debug\Exercise38_FilteringValues.pdb

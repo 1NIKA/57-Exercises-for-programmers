@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\bin\Debug\Exercise32_GuessTheNumberGame.exe.config
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\bin\Debug\Exercise32_GuessTheNumberGame.exe
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\bin\Debug\Exercise32_GuessTheNumberGame.pdb
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\obj\Debug\Exercise32_GuessTheNumberGame.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\obj\Debug\Exercise32_GuessTheNumberGame.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\obj\Debug\Exercise32_GuessTheNumberGame.exe
+D:\C#\57 Exercises for programmers\Exercise32_GuessTheNumberGame\Exercise32_GuessTheNumberGame\obj\Debug\Exercise32_GuessTheNumberGame.pdb

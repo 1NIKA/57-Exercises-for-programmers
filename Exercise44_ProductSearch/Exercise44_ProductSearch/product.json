@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "Name": "Widget",
+      "Price": 25.0,
+      "Quantity": 5
+    },
+    {
+      "Name": "Thing",
+      "Price": 15.0,
+      "Quantity": 5
+    },
+    {
+      "Name": "Doodad",
+      "Price": 5.0,
+      "Quantity": 10
+    },
+    {
+      "Name": "Apple",
+      "Price": 34.56,
+      "Quantity": 13
+    },
+    {
+      "Name": "banana",
+      "Price": 2.3,
+      "Quantity": 3
+    }
+  ]
+}

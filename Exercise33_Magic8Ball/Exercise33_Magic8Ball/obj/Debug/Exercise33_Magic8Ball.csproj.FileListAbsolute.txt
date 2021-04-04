@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\bin\Debug\Exercise33_Magic8Ball.exe.config
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\bin\Debug\Exercise33_Magic8Ball.exe
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\bin\Debug\Exercise33_Magic8Ball.pdb
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\obj\Debug\Exercise33_Magic8Ball.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\obj\Debug\Exercise33_Magic8Ball.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\obj\Debug\Exercise33_Magic8Ball.exe
+D:\C#\57 Exercises for programmers\Exercise33_Magic8Ball\Exercise33_Magic8Ball\obj\Debug\Exercise33_Magic8Ball.pdb

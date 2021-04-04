@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\bin\Debug\Exercise45_WordFinder.exe.config
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\bin\Debug\Exercise45_WordFinder.exe
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\bin\Debug\Exercise45_WordFinder.pdb
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\obj\Debug\Exercise45_WordFinder.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\obj\Debug\Exercise45_WordFinder.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\obj\Debug\Exercise45_WordFinder.exe
+D:\C#\57 Exercises for programmers\Exercise45_WordFinder\Exercise45_WordFinder\obj\Debug\Exercise45_WordFinder.pdb

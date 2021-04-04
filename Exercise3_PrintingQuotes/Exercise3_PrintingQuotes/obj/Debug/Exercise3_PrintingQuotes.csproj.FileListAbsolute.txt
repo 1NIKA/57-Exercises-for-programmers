@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\bin\Debug\Exercise3_PrintingQuotes.exe.config
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\bin\Debug\Exercise3_PrintingQuotes.exe
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\bin\Debug\Exercise3_PrintingQuotes.pdb
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\obj\Debug\Exercise3_PrintingQuotes.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\obj\Debug\Exercise3_PrintingQuotes.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\obj\Debug\Exercise3_PrintingQuotes.exe
+D:\57 Exercises for programmers\Exercise3_PrintingQuotes\Exercise3_PrintingQuotes\obj\Debug\Exercise3_PrintingQuotes.pdb

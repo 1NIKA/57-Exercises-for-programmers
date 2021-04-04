@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\bin\Debug\Exercise9_PaintCalculator.exe.config
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\bin\Debug\Exercise9_PaintCalculator.exe
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\bin\Debug\Exercise9_PaintCalculator.pdb
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\obj\Debug\Exercise9_PaintCalculator.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\obj\Debug\Exercise9_PaintCalculator.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\obj\Debug\Exercise9_PaintCalculator.exe
+D:\57 Exercises for programmers\Exercise9_PaintCalculator\Exercise9_PaintCalculator\obj\Debug\Exercise9_PaintCalculator.pdb

@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\bin\Debug\Exercise18_TemperatureConverter.exe.config
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\bin\Debug\Exercise18_TemperatureConverter.exe
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\bin\Debug\Exercise18_TemperatureConverter.pdb
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\obj\Debug\Exercise18_TemperatureConverter.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\obj\Debug\Exercise18_TemperatureConverter.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\obj\Debug\Exercise18_TemperatureConverter.exe
+D:\C#\57 Exercises for programmers\Exercise18_TemperatureConverter\Exercise18_TemperatureConverter\obj\Debug\Exercise18_TemperatureConverter.pdb

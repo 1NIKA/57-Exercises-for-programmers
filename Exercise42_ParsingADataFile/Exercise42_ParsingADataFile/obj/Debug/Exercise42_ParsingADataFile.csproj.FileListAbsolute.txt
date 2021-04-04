@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\bin\Debug\Exercise42_ParsingADataFile.exe.config
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\bin\Debug\Exercise42_ParsingADataFile.exe
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\bin\Debug\Exercise42_ParsingADataFile.pdb
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\obj\Debug\Exercise42_ParsingADataFile.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\obj\Debug\Exercise42_ParsingADataFile.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\obj\Debug\Exercise42_ParsingADataFile.exe
+D:\C#\57 Exercises for programmers\Exercise42_ParsingADataFile\Exercise42_ParsingADataFile\obj\Debug\Exercise42_ParsingADataFile.pdb

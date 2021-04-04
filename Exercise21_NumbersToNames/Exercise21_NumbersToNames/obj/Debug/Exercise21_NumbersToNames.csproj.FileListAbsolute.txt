@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\bin\Debug\Exercise21_NumbersToNames.exe.config
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\bin\Debug\Exercise21_NumbersToNames.exe
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\bin\Debug\Exercise21_NumbersToNames.pdb
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\obj\Debug\Exercise21_NumbersToNames.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\obj\Debug\Exercise21_NumbersToNames.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\obj\Debug\Exercise21_NumbersToNames.exe
+D:\C#\57 Exercises for programmers\Exercise21_NumbersToNames\Exercise21_NumbersToNames\obj\Debug\Exercise21_NumbersToNames.pdb

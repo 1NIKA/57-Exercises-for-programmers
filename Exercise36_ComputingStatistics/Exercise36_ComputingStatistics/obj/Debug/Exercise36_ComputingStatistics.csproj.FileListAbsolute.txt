@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\bin\Debug\Exercise36_ComputingStatistics.exe.config
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\bin\Debug\Exercise36_ComputingStatistics.exe
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\bin\Debug\Exercise36_ComputingStatistics.pdb
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\obj\Debug\Exercise36_ComputingStatistics.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\obj\Debug\Exercise36_ComputingStatistics.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\obj\Debug\Exercise36_ComputingStatistics.exe
+D:\C#\57 Exercises for programmers\Exercise36_ComputingStatistics\Exercise36_ComputingStatistics\obj\Debug\Exercise36_ComputingStatistics.pdb

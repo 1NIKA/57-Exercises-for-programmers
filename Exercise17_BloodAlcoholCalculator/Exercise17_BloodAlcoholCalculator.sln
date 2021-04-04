@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise17_BloodAlcoholCalculator", "Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator.csproj", "{C399127C-FAB5-42BD-BFB8-0B5F94A367C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C399127C-FAB5-42BD-BFB8-0B5F94A367C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C399127C-FAB5-42BD-BFB8-0B5F94A367C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C399127C-FAB5-42BD-BFB8-0B5F94A367C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C399127C-FAB5-42BD-BFB8-0B5F94A367C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733E5916-0671-4092-9AB0-CA2550A936DC}
+	EndGlobalSection
+EndGlobal

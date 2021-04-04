@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\bin\Debug\Exercise43_WebsiteGenerator.exe.config
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\bin\Debug\Exercise43_WebsiteGenerator.exe
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\bin\Debug\Exercise43_WebsiteGenerator.pdb
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\obj\Debug\Exercise43_WebsiteGenerator.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\obj\Debug\Exercise43_WebsiteGenerator.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\obj\Debug\Exercise43_WebsiteGenerator.exe
+D:\C#\57 Exercises for programmers\Exercise43_WebsiteGenerator\Exercise43_WebsiteGenerator\obj\Debug\Exercise43_WebsiteGenerator.pdb

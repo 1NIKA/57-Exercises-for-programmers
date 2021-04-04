@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\bin\Debug\Exercise26_MonthsToPayOffACreditCard.exe.config
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\bin\Debug\Exercise26_MonthsToPayOffACreditCard.exe
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\bin\Debug\Exercise26_MonthsToPayOffACreditCard.pdb
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\obj\Debug\Exercise26_MonthsToPayOffACreditCard.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\obj\Debug\Exercise26_MonthsToPayOffACreditCard.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\obj\Debug\Exercise26_MonthsToPayOffACreditCard.exe
+D:\C#\57 Exercises for programmers\Exercise26_MonthsToPayOffACreditCard\Exercise26_MonthsToPayOffACreditCard\obj\Debug\Exercise26_MonthsToPayOffACreditCard.pdb

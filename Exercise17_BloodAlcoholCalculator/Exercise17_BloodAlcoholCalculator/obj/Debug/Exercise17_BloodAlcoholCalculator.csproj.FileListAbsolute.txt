@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\bin\Debug\Exercise17_BloodAlcoholCalculator.exe.config
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\bin\Debug\Exercise17_BloodAlcoholCalculator.exe
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\bin\Debug\Exercise17_BloodAlcoholCalculator.pdb
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\obj\Debug\Exercise17_BloodAlcoholCalculator.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\obj\Debug\Exercise17_BloodAlcoholCalculator.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\obj\Debug\Exercise17_BloodAlcoholCalculator.exe
+D:\C#\57 Exercises for programmers\Exercise17_BloodAlcoholCalculator\Exercise17_BloodAlcoholCalculator\obj\Debug\Exercise17_BloodAlcoholCalculator.pdb

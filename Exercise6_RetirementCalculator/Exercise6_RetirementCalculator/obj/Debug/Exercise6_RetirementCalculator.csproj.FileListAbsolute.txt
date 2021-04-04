@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\bin\Debug\Exercise6_RetirementCalculator.exe.config
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\bin\Debug\Exercise6_RetirementCalculator.exe
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\bin\Debug\Exercise6_RetirementCalculator.pdb
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\obj\Debug\Exercise6_RetirementCalculator.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\obj\Debug\Exercise6_RetirementCalculator.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\obj\Debug\Exercise6_RetirementCalculator.exe
+D:\57 Exercises for programmers\Exercise6_RetirementCalculator\Exercise6_RetirementCalculator\obj\Debug\Exercise6_RetirementCalculator.pdb

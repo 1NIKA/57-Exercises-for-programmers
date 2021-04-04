@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\bin\Debug\Exercise30_MultiplicationTable.exe.config
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\bin\Debug\Exercise30_MultiplicationTable.exe
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\bin\Debug\Exercise30_MultiplicationTable.pdb
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\obj\Debug\Exercise30_MultiplicationTable.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\obj\Debug\Exercise30_MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\obj\Debug\Exercise30_MultiplicationTable.exe
+D:\C#\57 Exercises for programmers\Exercise30_MultiplicationTable\Exercise30_MultiplicationTable\obj\Debug\Exercise30_MultiplicationTable.pdb

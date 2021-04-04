@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\bin\Debug\Exercise4_MadLib.exe.config
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\bin\Debug\Exercise4_MadLib.exe
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\bin\Debug\Exercise4_MadLib.pdb
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\obj\Debug\Exercise4_MadLib.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\obj\Debug\Exercise4_MadLib.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\obj\Debug\Exercise4_MadLib.exe
+D:\57 Exercises for programmers\Exercise4_MadLib\Exercise4_MadLib\obj\Debug\Exercise4_MadLib.pdb

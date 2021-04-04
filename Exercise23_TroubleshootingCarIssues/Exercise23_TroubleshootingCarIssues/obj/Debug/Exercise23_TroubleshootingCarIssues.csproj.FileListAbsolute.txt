@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\bin\Debug\Exercise23_TroubleshootingCarIssues.exe.config
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\bin\Debug\Exercise23_TroubleshootingCarIssues.exe
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\bin\Debug\Exercise23_TroubleshootingCarIssues.pdb
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\obj\Debug\Exercise23_TroubleshootingCarIssues.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\obj\Debug\Exercise23_TroubleshootingCarIssues.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\obj\Debug\Exercise23_TroubleshootingCarIssues.exe
+D:\C#\57 Exercises for programmers\Exercise23_TroubleshootingCarIssues\Exercise23_TroubleshootingCarIssues\obj\Debug\Exercise23_TroubleshootingCarIssues.pdb

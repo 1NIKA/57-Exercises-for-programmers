@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\bin\Debug\Exercise28_AddingNumbers.exe.config
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\bin\Debug\Exercise28_AddingNumbers.exe
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\bin\Debug\Exercise28_AddingNumbers.pdb
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\obj\Debug\Exercise28_AddingNumbers.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\obj\Debug\Exercise28_AddingNumbers.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\obj\Debug\Exercise28_AddingNumbers.exe
+D:\C#\57 Exercises for programmers\Exercise28_AddingNumbers\Exercise28_AddingNumbers\obj\Debug\Exercise28_AddingNumbers.pdb

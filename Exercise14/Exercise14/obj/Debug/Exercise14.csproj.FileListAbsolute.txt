@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\bin\Debug\Exercise14.exe.config
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\bin\Debug\Exercise14.exe
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\bin\Debug\Exercise14.pdb
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\obj\Debug\Exercise14.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\obj\Debug\Exercise14.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\obj\Debug\Exercise14.exe
+D:\C#\57 Exercises for programmers\Exercise14\Exercise14\obj\Debug\Exercise14.pdb

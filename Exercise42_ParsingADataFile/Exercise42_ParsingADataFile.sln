@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise42_ParsingADataFile", "Exercise42_ParsingADataFile\Exercise42_ParsingADataFile.csproj", "{071B29AF-1A30-43A1-ABCB-AC63B9CA042B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071B29AF-1A30-43A1-ABCB-AC63B9CA042B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071B29AF-1A30-43A1-ABCB-AC63B9CA042B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071B29AF-1A30-43A1-ABCB-AC63B9CA042B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071B29AF-1A30-43A1-ABCB-AC63B9CA042B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124F6562-8A69-4226-B8F9-410A19D4C2DA}
+	EndGlobalSection
+EndGlobal

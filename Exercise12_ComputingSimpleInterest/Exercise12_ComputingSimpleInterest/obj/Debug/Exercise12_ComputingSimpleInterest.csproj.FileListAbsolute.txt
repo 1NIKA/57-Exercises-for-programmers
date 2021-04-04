@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\bin\Debug\Exercise12_ComputingSimpleInterest.exe.config
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\bin\Debug\Exercise12_ComputingSimpleInterest.exe
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\bin\Debug\Exercise12_ComputingSimpleInterest.pdb
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\obj\Debug\Exercise12_ComputingSimpleInterest.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\obj\Debug\Exercise12_ComputingSimpleInterest.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\obj\Debug\Exercise12_ComputingSimpleInterest.exe
+D:\C#\57 Exercises for programmers\Exercise12_ComputingSimpleInterest\Exercise12_ComputingSimpleInterest\obj\Debug\Exercise12_ComputingSimpleInterest.pdb

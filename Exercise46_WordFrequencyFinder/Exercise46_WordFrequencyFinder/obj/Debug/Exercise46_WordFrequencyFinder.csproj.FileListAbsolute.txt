@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\bin\Debug\Exercise46_WordFrequencyFinder.exe.config
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\bin\Debug\Exercise46_WordFrequencyFinder.exe
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\bin\Debug\Exercise46_WordFrequencyFinder.pdb
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\obj\Debug\Exercise46_WordFrequencyFinder.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\obj\Debug\Exercise46_WordFrequencyFinder.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\obj\Debug\Exercise46_WordFrequencyFinder.exe
+D:\C#\57 Exercises for programmers\Exercise46_WordFrequencyFinder\Exercise46_WordFrequencyFinder\obj\Debug\Exercise46_WordFrequencyFinder.pdb

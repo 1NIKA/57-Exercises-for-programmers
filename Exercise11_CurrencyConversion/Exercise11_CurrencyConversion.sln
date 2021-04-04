@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise11_CurrencyConversion", "Exercise11_CurrencyConversion\Exercise11_CurrencyConversion.csproj", "{A829C357-E0B5-417F-99F4-E54349057CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A829C357-E0B5-417F-99F4-E54349057CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A829C357-E0B5-417F-99F4-E54349057CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A829C357-E0B5-417F-99F4-E54349057CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A829C357-E0B5-417F-99F4-E54349057CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5C1491-6F93-46C3-A739-3AC557EF8693}
+	EndGlobalSection
+EndGlobal

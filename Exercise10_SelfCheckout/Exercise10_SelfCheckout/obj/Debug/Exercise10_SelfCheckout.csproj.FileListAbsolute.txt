@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\bin\Debug\Exercise10_SelfCheckout.exe.config
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\bin\Debug\Exercise10_SelfCheckout.exe
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\bin\Debug\Exercise10_SelfCheckout.pdb
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\obj\Debug\Exercise10_SelfCheckout.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\obj\Debug\Exercise10_SelfCheckout.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\obj\Debug\Exercise10_SelfCheckout.exe
+D:\57 Exercises for programmers\Exercise10_SelfCheckout\Exercise10_SelfCheckout\obj\Debug\Exercise10_SelfCheckout.pdb

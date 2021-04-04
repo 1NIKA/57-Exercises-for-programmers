@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\bin\Debug\Exercise40_FilteringRecords.exe.config
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\bin\Debug\Exercise40_FilteringRecords.exe
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\bin\Debug\Exercise40_FilteringRecords.pdb
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\obj\Debug\Exercise40_FilteringRecords.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\obj\Debug\Exercise40_FilteringRecords.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\obj\Debug\Exercise40_FilteringRecords.exe
+D:\C#\57 Exercises for programmers\Exercise40_FilteringRecords\Exercise40_FilteringRecords\obj\Debug\Exercise40_FilteringRecords.pdb

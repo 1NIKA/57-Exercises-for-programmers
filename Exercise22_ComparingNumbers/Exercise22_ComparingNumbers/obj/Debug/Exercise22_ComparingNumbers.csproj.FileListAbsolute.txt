@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\bin\Debug\Exercise22_ComparingNumbers.exe.config
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\bin\Debug\Exercise22_ComparingNumbers.exe
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\bin\Debug\Exercise22_ComparingNumbers.pdb
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\obj\Debug\Exercise22_ComparingNumbers.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\obj\Debug\Exercise22_ComparingNumbers.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\obj\Debug\Exercise22_ComparingNumbers.exe
+D:\C#\57 Exercises for programmers\Exercise22_ComparingNumbers\Exercise22_ComparingNumbers\obj\Debug\Exercise22_ComparingNumbers.pdb

@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\bin\Debug\Exercise1_SayingHello.exe.config
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\bin\Debug\Exercise1_SayingHello.exe
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\bin\Debug\Exercise1_SayingHello.pdb
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\obj\Debug\Exercise1_SayingHello.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\obj\Debug\Exercise1_SayingHello.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\obj\Debug\Exercise1_SayingHello.exe
+D:\57 Exercises for programmers\Exercise1_SayingHello\Exercise1_SayingHello\obj\Debug\Exercise1_SayingHello.pdb

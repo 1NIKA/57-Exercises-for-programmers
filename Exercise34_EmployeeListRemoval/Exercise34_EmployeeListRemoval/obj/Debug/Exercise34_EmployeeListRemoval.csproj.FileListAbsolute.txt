@@ -1,0 +1,7 @@
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\bin\Debug\Exercise34_EmployeeListRemoval.exe.config
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\bin\Debug\Exercise34_EmployeeListRemoval.exe
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\bin\Debug\Exercise34_EmployeeListRemoval.pdb
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\obj\Debug\Exercise34_EmployeeListRemoval.csprojAssemblyReference.cache
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\obj\Debug\Exercise34_EmployeeListRemoval.csproj.CoreCompileInputs.cache
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\obj\Debug\Exercise34_EmployeeListRemoval.exe
+D:\C#\57 Exercises for programmers\Exercise34_EmployeeListRemoval\Exercise34_EmployeeListRemoval\obj\Debug\Exercise34_EmployeeListRemoval.pdb

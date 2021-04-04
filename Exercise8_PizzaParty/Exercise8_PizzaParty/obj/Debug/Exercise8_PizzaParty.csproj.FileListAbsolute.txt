@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\bin\Debug\Exercise8_PizzaParty.exe.config
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\bin\Debug\Exercise8_PizzaParty.exe
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\bin\Debug\Exercise8_PizzaParty.pdb
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\obj\Debug\Exercise8_PizzaParty.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\obj\Debug\Exercise8_PizzaParty.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\obj\Debug\Exercise8_PizzaParty.exe
+D:\57 Exercises for programmers\Exercise8_PizzaParty\Exercise8_PizzaParty\obj\Debug\Exercise8_PizzaParty.pdb

@@ -1,0 +1,7 @@
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\bin\Debug\Exercise11_CurrencyConversion.exe.config
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\bin\Debug\Exercise11_CurrencyConversion.exe
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\bin\Debug\Exercise11_CurrencyConversion.pdb
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\obj\Debug\Exercise11_CurrencyConversion.csprojAssemblyReference.cache
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\obj\Debug\Exercise11_CurrencyConversion.csproj.CoreCompileInputs.cache
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\obj\Debug\Exercise11_CurrencyConversion.exe
+D:\57 Exercises for programmers\Exercise11_CurrencyConversion\Exercise11_CurrencyConversion\obj\Debug\Exercise11_CurrencyConversion.pdb
